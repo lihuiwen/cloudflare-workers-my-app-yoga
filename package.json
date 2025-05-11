@@ -14,12 +14,12 @@
     "graphql-yoga": "5.10.11"
   },
   "devDependencies": {
-    "@cloudflare/vitest-pool-workers": "0.6.8",
+    "@cloudflare/vitest-pool-workers": "^0.6.8",
     "@cloudflare/workers-types": "^4.20250124.3",
     "@types/service-worker-mock": "2.0.4",
     "service-worker-mock": "2.0.5",
     "typescript": "5.7.3",
-    "vitest": "3.0.4",
+    "vitest": "2.1.x",
     "wrangler": "^4.14.4"
   }
 }
