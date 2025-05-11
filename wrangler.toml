@@ -1,9 +1,9 @@
 #:schema node_modules/wrangler/config-schema.json
 # For more details on how to configure Wrangler, refer to:
 # https://developers.cloudflare.com/workers/wrangler/configuration/
-name = "my-app"
+name = "my-app-yoga"
 main = "src/index.ts"
-compatibility_date = "2024-03-29"
+compatibility_date = "2024-05-11"
 compatibility_flags = [ "nodejs_compat" ]
 
 [observability]
